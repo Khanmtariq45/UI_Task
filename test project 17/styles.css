@@ -1,12 +1,9 @@
 body {
-  overflow-x: hidden;
-}
-
-.row {
-  display: flex;
-  margin-right: -15px;
-  margin-left: -15px;
-  flex-wrap: wrap;
+  color: #666666;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.80857;
+  font-weight: normal;
 }
 
 .hero-heading {
